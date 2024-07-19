@@ -99,6 +99,12 @@
   --bs-highlight-bg: #fff3cd;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 *,
 *::before,
 *::after {
