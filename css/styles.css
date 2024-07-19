@@ -99,11 +99,6 @@
   --bs-highlight-bg: #fff3cd;
 }
 
-img {
-    max-width: 50%;
-    height: auto;
-}
-
 
 *,
 *::before,
@@ -631,7 +626,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
